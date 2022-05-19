@@ -69,7 +69,7 @@
   <div class="">
     <code>
       {#each photos as photo}
-        {photo},
+        "{photo}",
         <br />
       {/each}
     </code>
